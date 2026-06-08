@@ -5,7 +5,9 @@
     "Type": 1,
     "Description": "Type 1 = ModifyItemOnAll. Adds the item to every profile in the unit. Used to give shields to the whole Foot Soldier unit.",
     "ItemsToAdd": [
-      { "Id": "equip_shield" }
+      {
+        "Id": "equip_shield"
+      }
     ]
   },
   {
@@ -20,7 +22,9 @@
     "Type": 1,
     "Description": "Type 1 = ModifyItemOnAll. Adds a lance to every model in the Knights unit.",
     "ItemsToAdd": [
-      { "Id": "equip_lance" }
+      {
+        "Id": "equip_lance"
+      }
     ]
   },
   {
