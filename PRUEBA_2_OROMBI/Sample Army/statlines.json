@@ -31,7 +31,9 @@
       "Ld": "8"
     },
     "Children": [
-      { "Id": "rule_frenzy" }
+      {
+        "Id": "rule_frenzy"
+      }
     ]
   },
   {
@@ -50,7 +52,9 @@
       "Ld": "8"
     },
     "Children": [
-      { "Id": "rule_cause_fear" }
+      {
+        "Id": "rule_cause_fear"
+      }
     ]
   },
   {
@@ -69,8 +73,28 @@
       "Ld": "9"
     },
     "Children": [
-      { "Id": "rule_spellcaster" },
-      { "Id": "rule_cause_fear" }
+      {
+        "Id": "rule_spellcaster"
+      },
+      {
+        "Id": "rule_cause_fear"
+      }
     ]
+  },
+  {
+    "Id": "statlines_1780915271728",
+    "Name": "Orombi statlines",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "4",
+      "WS": "3",
+      "BS": "3",
+      "S": "3",
+      "T": "3",
+      "I": "3",
+      "A": "1",
+      "Ld": "10",
+      "H": "5"
+    }
   }
 ]
