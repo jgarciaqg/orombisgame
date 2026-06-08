@@ -2,7 +2,8 @@
   "Factions": {
     "Sample Army": {
       "Characters": [
-        "unit_hero"
+        "unit_hero",
+        "units_1780915127235"
       ],
       "Core": [
         "unit_foot_soldier",
