@@ -5,9 +5,15 @@
     "Type": "Profile",
     "BaseId": "base_infantry",
     "Children": [
-      { "Id": "stat_foot_soldier" },
-      { "Id": "equip_sword" },
-      { "Id": "rule_stubborn" }
+      {
+        "Id": "stat_foot_soldier"
+      },
+      {
+        "Id": "equip_sword"
+      },
+      {
+        "Id": "rule_stubborn"
+      }
     ]
   },
   {
@@ -16,9 +22,15 @@
     "Type": "Profile",
     "BaseId": "base_infantry",
     "Children": [
-      { "Id": "stat_veteran_soldier" },
-      { "Id": "equip_sword" },
-      { "Id": "rule_stubborn" }
+      {
+        "Id": "stat_veteran_soldier"
+      },
+      {
+        "Id": "equip_sword"
+      },
+      {
+        "Id": "rule_stubborn"
+      }
     ]
   },
   {
@@ -27,9 +39,15 @@
     "Type": "Profile",
     "BaseId": "base_cavalry",
     "Children": [
-      { "Id": "stat_knight" },
-      { "Id": "equip_lance" },
-      { "Id": "equip_heavy_armor" }
+      {
+        "Id": "stat_knight"
+      },
+      {
+        "Id": "equip_lance"
+      },
+      {
+        "Id": "equip_heavy_armor"
+      }
     ]
   },
   {
@@ -38,10 +56,34 @@
     "Type": "Profile",
     "BaseId": "base_infantry",
     "Children": [
-      { "Id": "stat_hero" },
-      { "Id": "equip_sword" },
-      { "Id": "equip_banner_of_valor" },
-      { "Id": "rule_magical_aura" }
+      {
+        "Id": "stat_hero"
+      },
+      {
+        "Id": "equip_sword"
+      },
+      {
+        "Id": "equip_banner_of_valor"
+      },
+      {
+        "Id": "rule_magical_aura"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1780915143276",
+    "Name": "Orombi",
+    "Type": "Profile",
+    "BaseId": "base_large",
+    "Children": [
+      {
+        "Id": "rules_1780915164295",
+        "Info": ""
+      },
+      {
+        "Id": "statlines_1780915271728",
+        "Info": ""
+      }
     ]
   }
 ]
