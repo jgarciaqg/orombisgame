@@ -4,10 +4,16 @@
     "Name": "Foot Soldiers",
     "Type": "Unit",
     "Description": "Core infantry. Army rules are attached here via Children[]. Every model in the unit inherits these rules.",
-    "BasicProfileIds": [ "prof_foot_soldier" ],
+    "BasicProfileIds": [
+      "prof_foot_soldier"
+    ],
     "Children": [
-      { "Id": "rule_hold_the_line" },
-      { "Id": "rule_rank_bonus" }
+      {
+        "Id": "rule_hold_the_line"
+      },
+      {
+        "Id": "rule_rank_bonus"
+      }
     ],
     "DefaultFront": 5,
     "Formation": 0
@@ -17,10 +23,16 @@
     "Name": "Veteran Foot Soldiers",
     "Type": "Unit",
     "Description": "Upgraded infantry. Inherits the same army rules as Foot Soldiers.",
-    "BasicProfileIds": [ "prof_veteran_soldier" ],
+    "BasicProfileIds": [
+      "prof_veteran_soldier"
+    ],
     "Children": [
-      { "Id": "rule_hold_the_line" },
-      { "Id": "rule_rank_bonus" }
+      {
+        "Id": "rule_hold_the_line"
+      },
+      {
+        "Id": "rule_rank_bonus"
+      }
     ],
     "DefaultFront": 5,
     "Formation": 0
@@ -30,10 +42,16 @@
     "Name": "Knights",
     "Type": "Unit",
     "Description": "Heavy cavalry. Gets the Lance Formation army rule in addition to Hold the Line.",
-    "BasicProfileIds": [ "prof_knight" ],
+    "BasicProfileIds": [
+      "prof_knight"
+    ],
     "Children": [
-      { "Id": "rule_hold_the_line" },
-      { "Id": "rule_lance_formation" }
+      {
+        "Id": "rule_hold_the_line"
+      },
+      {
+        "Id": "rule_lance_formation"
+      }
     ],
     "DefaultFront": 4,
     "Formation": 0
@@ -43,11 +61,28 @@
     "Name": "Hero",
     "Type": "Unit",
     "Description": "A powerful individual character. Taken as a single model (DefaultFront:1, Formation:1).",
-    "BasicProfileIds": [ "prof_hero" ],
+    "BasicProfileIds": [
+      "prof_hero"
+    ],
     "Children": [
-      { "Id": "rule_hold_the_line" }
+      {
+        "Id": "rule_hold_the_line"
+      }
     ],
     "DefaultFront": 1,
     "Formation": 1
+  },
+  {
+    "Id": "units_1780915127235",
+    "Name": "Orombi Unit",
+    "Type": "Unit",
+    "DefaultFront": 5,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1780915143276"
+    ],
+    "Attributes": {
+      "Type": "Epic"
+    }
   }
 ]
