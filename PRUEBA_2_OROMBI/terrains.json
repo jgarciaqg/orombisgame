@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "terrain_0",
+    "Name": "Wall green rocks",
+    "Type": "Terrain",
+    "Width": 10.16,
+    "Length": 10.16,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_1",
+    "Name": "Tower green rocks",
+    "Type": "Terrain",
+    "Width": 10.16,
+    "Length": 10.16,
+    "Shape": 1
+  },
+  {
+    "Id": "terrain_2",
+    "Name": "Forest snow",
+    "Type": "Terrain",
+    "Width": 50.8,
+    "Length": 50.8,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_3",
+    "Name": "House green rocks",
+    "Type": "Terrain",
+    "Width": 10.16,
+    "Length": 10.16,
+    "Shape": 0
+  },
+  {
+    "Id": "terrain_4",
+    "Name": "Hill green rocks",
+    "Type": "Terrain",
+    "Width": 25.4,
+    "Length": 25.4,
+    "Shape": 0
+  }
+]
