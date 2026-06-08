@@ -1,0 +1,18 @@
+[
+  {
+    "deploymentID": 0,
+    "deploymentName": "Deployment 1",
+    "X": 12
+  },
+  {
+    "deploymentID": 2,
+    "deploymentName": "Deployment 2",
+    "X": 9
+  },
+  {
+    "deploymentID": 5,
+    "deploymentName": "Deployment 3",
+    "X": 12,
+    "Y": 6
+  }
+]
