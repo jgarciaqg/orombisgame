@@ -10,5 +10,11 @@
     "Name": "Magical Aura",
     "Type": "Rule",
     "Description": "Friendly units within 6 inches of this model gain +1 to their ward saves against spells."
+  },
+  {
+    "Id": "rules_1780915164295",
+    "Name": "Nacho",
+    "Type": "Rule",
+    "Description": "Ta larga"
   }
 ]
